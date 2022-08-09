@@ -37,4 +37,4 @@ jobs:
     - name: Cobertura de Testes
       uses: codecov/codecov-action@v3
       with:
-        token: ${{ secrets.CODECOV_TOKEN }}
+        token: ${{ secrets.ea93fe30-f847-4cae-98c7-88c430a89c67}}
